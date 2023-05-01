@@ -132,6 +132,10 @@ boom@5.x.x:
   dependencies:
     hoek "4.x.x"
 
+bowser@^1.9.1:
+  version "1.9.4"
+  resolved "https://registry.yarnpkg.com/bowser/-/bowser-1.9.4.tgz#890c58a2813a9d3243704334fa81b96a5c150c9a"
+
 brace-expansion@^1.0.0, brace-expansion@^1.1.7:
   version "1.1.8"
   resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.8.tgz#c07b211c7c952ec1f8efd51a77ef0d1d3990a292"
@@ -150,6 +154,10 @@ braces@^1.8.2:
 builtin-modules@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/builtin-modules/-/builtin-modules-1.1.1.tgz#270f076c5a72c02f5b65a47df94c5fe3a278892f"
+
+bulma-divider@^0.1.0:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/bulma-divider/-/bulma-divider-0.1.8.tgz#7807720d95fcd34b78b9ff9e42632256e5cce9cf"
 
 bulma@^0.5.3:
   version "0.5.3"
